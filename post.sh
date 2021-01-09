@@ -1,0 +1,1 @@
+curl -i -X POST -H "Content-Type: text/plain" --data "item 2#3639.35" "https://eventsync.portaltecsinapse.com.br/public/recrutamento/finalizar?email=vitor.vaz@ufms.br"
