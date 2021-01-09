@@ -21,7 +21,7 @@ public class Main
 			Integer quantidade = 0;
 			Double valor = 0.0;
 
-			for(int j = 1; j < 5; j++) {
+			for(int j = 1; j <= 5; j++) {
 
 				String itemAux = "";
 				Integer quantidadeAux = 0;
