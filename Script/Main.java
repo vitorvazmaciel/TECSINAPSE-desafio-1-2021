@@ -58,6 +58,6 @@ public class Main
 	}
 
 	public static String readFileAsString(String file) throws IOException {
-        return new String(Files.readAllBytes(Paths.get(file)));
+        	return new String(Files.readAllBytes(Paths.get(file)));
     }
 }
